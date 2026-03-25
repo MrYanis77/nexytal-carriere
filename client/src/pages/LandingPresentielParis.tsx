@@ -35,7 +35,7 @@ export default function LandingPresentielParis() {
               className="text-4xl md:text-5xl font-bold mb-4 text-white"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              Bilan de compétences à Paris
+              Bilan de compétences
               <span className="block italic mt-1" style={{ color: "oklch(0.82 0.10 75)" }}>
                 100 % Présentiel
               </span>

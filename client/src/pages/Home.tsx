@@ -1,6 +1,6 @@
 /**
  * ALT-RH & Carrière – Page Accueil
- * H1 SEO : Bilan de compétences à Paris – Distanciel, Présentiel ou Mixte
+ * H1 SEO : Bilan de compétences – Distanciel, Présentiel ou Mixte
  * Design: Swiss Corporate Modernism × Editorial Warmth
  */
 import { Link } from "wouter";
@@ -121,7 +121,7 @@ export default function Home() {
               className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-4 text-white"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              Bilan de compétences à Paris
+              Bilan de compétences
               <span
                 className="block italic font-normal mt-1"
                 style={{ color: "oklch(0.82 0.10 75)" }}
